@@ -19,6 +19,7 @@
 		DD9D6D742DC6945900774834 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9D6D6F2DC6846600774834 /* QuizView.swift */; };
 		DD9D6D752DC6945900774834 /* FlashcardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9D6D6E2DC66A0200774834 /* FlashcardsView.swift */; };
 		DD9D6D762DC696A900774834 /* FlashcardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9D6D702DC68EA500774834 /* FlashcardView.swift */; };
+		DD9D6D782DC7FBBE00774834 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = DD9D6D772DC7FBB600774834 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		DD9D6D6E2DC66A0200774834 /* FlashcardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsView.swift; sourceTree = "<group>"; };
 		DD9D6D6F2DC6846600774834 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
 		DD9D6D702DC68EA500774834 /* FlashcardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardView.swift; sourceTree = "<group>"; };
+		DD9D6D772DC7FBB600774834 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -102,6 +104,7 @@
 		DD9D6D232DC6364F00774834 = {
 			isa = PBXGroup;
 			children = (
+				DD9D6D772DC7FBB600774834 /* .gitignore */,
 				DD9D6D602DC657C700774834 /* Resources */,
 				DD9D6D5F2DC657B800774834 /* Services */,
 				DD9D6D5E2DC657A900774834 /* ViewModels */,
@@ -339,6 +342,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD9D6D782DC7FBBE00774834 /* .gitignore in Resources */,
 				DD9D6D342DC6365100774834 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
